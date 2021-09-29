@@ -18,5 +18,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfemar/JobsCalc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucasfemar/JobsCalc/issues"
+  },
+  "homepage": "https://github.com/lucasfemar/JobsCalc#readme"
 }
