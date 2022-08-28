@@ -23,4 +23,4 @@ server.use(express.static("./routes"))
 server.use(routes)
 
 //Ligando o servidor
-server.listen(3000, () => console.log('rodando')) //Ligando o servidor local
+server.listen(process.env.PORT || 3000); //Ligando o servidor local
